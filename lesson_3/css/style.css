@@ -1,0 +1,53 @@
+.block>p{
+    color: orange;
+}
+
+[href="https://uk.wikipedia.org/wiki/Анна_Стюарт"]{
+    color: teal;
+}
+[href="https://uk.wikipedia.org/wiki/Георг_I_(король_Великої_Британії)"]{
+    color: black;
+}
+[href="https://uk.wikipedia.org/wiki/Георг_II_(король_Великої_Британії)"]{
+    color: red;
+}
+
+[class^="link2"] {
+    color: violet;
+}
+
+#list {
+    color: firebrick;
+}
+
+#p-1 {
+    color: navy;
+}
+
+a {
+color: green;
+}
+
+.text {
+    color: darkslateblue;
+}
+
+div {
+color: darkred;
+}
+
+.lesson {
+    color: deeppink;
+}
+
+.text ~ p {
+    color: yellowgreen;
+}
+
+span{
+    color: royalblue;
+}
+
+div.about {
+    color: darkmagenta;
+}
